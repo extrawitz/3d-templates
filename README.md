@@ -1,2 +1,2 @@
-# 3d-templates
-3D Printer Templates
+# 3D Printer Templates featured on technikmensch.de
+
